@@ -6,11 +6,12 @@
   Hi, I'm Claudemir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<h3 align="center" style="text-align: center; margin-left: 240px;">
+<h3 align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=F76718&width=435&height=25&lines=Endividado+com+caf%C3%A9..." alt="Typing SVG" />
   </a>
 </h3>
+
 
 <p align="center">
   <img src="assets/deo182h-4d8f64bf-0b0c-4f9b-8d13-a57c8d144ce1.gif" style="border-radius: 15px;" alt="Banner" width="750px">
